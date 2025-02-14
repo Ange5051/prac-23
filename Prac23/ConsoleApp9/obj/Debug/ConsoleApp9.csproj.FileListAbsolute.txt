@@ -1,0 +1,2 @@
+C:\Users\Kab-35-16\Downloads\Prac22.-main\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\Kab-35-16\Downloads\Prac22.-main\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
